@@ -160,7 +160,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRka2RwbHVlbm43OTlicWZjd3k0MmpocDFpeXZmaTFzeXNldnFkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp"
+    image: "https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydDVkeGNsdnIwdGZvdHh2c3dsazY1N3k2dGZ0bGdkZWlwaXU3NXl0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif"
     content: |-
       I am a software developer with a strong passion for cloud computing and web security. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art, mostly films and video games :).
       
